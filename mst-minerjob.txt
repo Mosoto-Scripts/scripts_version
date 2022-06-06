@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"First version of mst-minerjob!"}
+{"version":"1.0.1", "notes":"Added config for fivem-appearance"}
