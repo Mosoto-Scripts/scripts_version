@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Added config for fivem-appearance"}
+{"version":"1.0.2", "notes":"Added config for qb-menu and custom progressbar function"}
