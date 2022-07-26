@@ -1,1 +1,5 @@
-{"version":"1.0.2", "notes":"Added config for qb-menu and custom progressbar function"}
+{"version":"1.0.3", "notes":"
+• Better structured config.lua
+• Added option for markers (Config.QTarget = false)
+• Added new translations for markers
+• Added an new context menu for ox_lib"}
