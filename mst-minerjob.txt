@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Better structured config.lua | Added option for markers (Config.QTarget = false) | Added new translations for markers | Added an new context menu for ox_lib"}
+{"version":"1.0.3", "notes":"Main fixes, configurations and more."}
