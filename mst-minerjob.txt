@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Test"}
+{"version":"1.0.3", "notes":"Fixes, configurations and more."}
