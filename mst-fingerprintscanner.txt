@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Added compatibility with the qs-smartphone"}
+{"version":"1.0.2", "notes":"Added compatibility for more jobs"}
