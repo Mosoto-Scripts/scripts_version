@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Added compatibility for more jobs"}
+{"version":"1.0.5", "notes":"Added webhooks, advanced notifications, text ui, custom prop and more..."}
