@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Added webhooks, advanced notifications, text ui, custom prop and more..."}
+{"version":"1.0.5", "notes":"Added webhooks, optimization, text ui, custom prop and more..."}
