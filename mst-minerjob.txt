@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Added webhook logs, custom prop and more."}
+{"version":"1.0.4", "notes":"Added configuration for fivem-appearance"}
