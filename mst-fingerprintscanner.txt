@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Fixed QBCore, Data configurations, Job checking"}
+{"version":"1.0.7", "notes":"Improves in invisible part of the script"}
