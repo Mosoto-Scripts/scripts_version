@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Improves in invisible part of the script"}
+{"version":"1.0.5", "notes":"Improves in invisible part of the script"}
